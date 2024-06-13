@@ -2,10 +2,8 @@
 
 one:
   full_name: MyString
-  email: MyString
   password: MyString
 
 two:
   full_name: MyString
-  email: MyString
   password: MyString
